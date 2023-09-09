@@ -62,7 +62,7 @@ Si deseas contribuir a este proyecto, sigue los pasos:
 
 ## Licencia
 
-Este proyecto está bajo la licencia [Licencia BSD 2](LICENSE).
+Este proyecto está bajo la licencia [Licencia BSD 3](LICENSE).
 
 ## Créditos
 
