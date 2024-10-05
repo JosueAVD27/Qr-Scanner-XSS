@@ -16,10 +16,11 @@ La Aplicación de Escáner QR para Detección de Ataques XSS es una herramienta 
 - Mensajes informativos para códigos QR que no son rutas.
 
 ## Capturas de Pantalla
-
-![Captura de Pantalla 1](blob/img1.png)
-![Captura de Pantalla 2](blob/img2.png)
-![Captura de Pantalla 3](blob/img3.png)
+<div style="display: flex">
+   <img src="blob/img1.png" alt="1 usuario" height="400"/>
+   <img src="blob/img2.png" alt="2" height="400"/>
+   <img src="blob/img3.png" alt="3" height="400"/>
+</div>
 
 ## Tecnologías Utilizadas
 
